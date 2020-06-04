@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var a float32
-	a = 15.0
+	var a string
+	a = "String example"
 	fmt.Println("Value of a:", a)
 }
